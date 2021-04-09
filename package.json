@@ -18,7 +18,7 @@
     "es-dev-server": "^1.46.0",
     "husky": "^4.2.3",
     "lit-html": "^1.2.1",
-    "release-it": "^13.5.1",
+    "release-it": "^14.6.0",
     "web-component-analyzer": "^1.0.3"
   },
   "homepage": "https://github.com/GrahamSH-LLK/color-picker#readme",
