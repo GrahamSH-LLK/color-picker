@@ -11,7 +11,7 @@ color-picker is a custom Element powered by @bgins TinyColor library. This is a 
 - Safari >= 10.1
 - IE11+
 
-[![screenshot.gif](https://i.postimg.cc/T29LHm2m/screenshot.gif)](https://postimg.cc/grx2xxZk)
+![screenshot.gif](https://github.com/GrahamSH-LLK/color-picker/blob/fix-screenshot/screenshot.gif?raw=true)]
 
 ```html
 <color-picker
@@ -42,7 +42,7 @@ picker.addEventlistener('change', (e) => console.info('change', e.detail.value))
 | `color`            |                  | readonly  |            |                                  |                               |
 | `formats`          | `formats`        |           | `Array`    | ["hex","hex8","rgb","hsv","hsl"] | list of visible color schemes |
 | `hex`              |                  | readonly  |            |                                  |                               |
-| `hex8`             |                  | readonly  |            |                                  |                               |
+| `hex8`             |                  | readonly  |            |                                  |                               |!
 | `hsl`              |                  | readonly  |            |                                  |                               |
 | `hsv`              |                  | readonly  |            |                                  |                               |
 | `rgb`              |                  | readonly  |            |                                  |                               |
